@@ -1,0 +1,26 @@
+/* -------------------------
+     General CSS
+------------------------- */
+.wrapper {
+    padding: 120px 0 100px;
+}
+
+/* -------------------------
+     Navbar CSS
+------------------------- */
+.navbar .navbar-brand img {
+    max-width: 10.375rem;
+    height: 6rem;
+    padding: 0;
+    margin: 0;
+}
+
+/* -------------------------
+     Banner CSS
+------------------------- */
+.home_wrapper {
+    height: auto;
+    min-height: 100vh;
+    display: flex;
+    align-items: center !important;
+}
